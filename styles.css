@@ -12,13 +12,13 @@
 #mas{
     color: blueviolet;
     background-color: aqua;
-    border-radius: 100%;
+    border-radius: 50%;
     border-color: lightgreen;
 }
 
 #crearCuenta{
     color: whitesmoke;
     background-color: lightslategray;
-    border-style: groove;
     border: 5;
+    box-shadow: 3px 3px black;
 }
