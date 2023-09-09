@@ -1,0 +1,24 @@
+*{
+    margin: 5px 5px;
+}
+
+#buscar{
+    border-color: aquamarine;
+    background-color: grey;
+    color: black;
+    border-radius: 5px;
+}
+
+#mas{
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 100%;
+    border-color: lightgreen;
+}
+
+#crearCuenta{
+    color: whitesmoke;
+    background-color: lightslategray;
+    border-style: groove;
+    border: 5;
+}
